@@ -120,12 +120,3 @@ Essas são as linguagens e tecnologias que tenho afinidade para resolver _**prob
 
 <br/>
 <br/>
-
-### 📈 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipao00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
