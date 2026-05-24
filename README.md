@@ -19,7 +19,7 @@ Muito prazer! me chamo Lipe, tenho 19 anos e sou natural do Ceará, atualmente c
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
-    <a href="https://www.instagram.com/lipee_rs/">
+    <a href="https://www.instagram.com/lipee_dev/">
         <img 
             alt="Instagram" 
             title="Me siga no instagram" 
