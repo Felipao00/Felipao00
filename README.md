@@ -2,7 +2,9 @@
 
 **`Full-Stack Developer | Web Apps | Automações | UI Design`**
 
-Muito prazer! me chamo Lipe, tenho 19 anos e sou natural do Ceará, atualmente curso _**Desenvolvimento de Sistemas - Remotamente**_. Sou apaixonado por desenvolvimento _**Web**_ e criação de _**WEB APPs**_.
+📍 Ceará - Brasil  
+🎓 Desenvolvimento de Sistemas  
+🚀 Focado em interfaces modernas, automações e desenvolvimento de sistemas
 
 ---
 
