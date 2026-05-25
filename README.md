@@ -4,30 +4,6 @@
 
 Muito prazer! me chamo Lipe, tenho 19 anos e sou natural do Ceará, atualmente curso _**Desenvolvimento de Sistemas - Remotamente**_. Sou apaixonado por desenvolvimento _**Web**_ e criação de _**WEB APPs**_.
 
-<p align="left">
-    <a href="https://github.com/Felipao00">
-        <img 
-            alt="GitHub" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/lipe-dev/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a> 
-    <a href="https://www.instagram.com/lipee_dev/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 👨‍💻 **Linguagens e Tecnologias**
