@@ -8,6 +8,13 @@
 
 ---
 
+## O que estou fazendo atualmente
+
+🔹 Desenvolvendo aplicações web modernas  
+🔹 Estudando novas tecnologias Front-End e Back-End  
+🔹 Criando bots e automações  
+🔹 Evoluindo minhas habilidades Full-Stack
+
 ### 👨‍💻 **Linguagens e Tecnologias**
 
 Essas são as linguagens e tecnologias que tenho afinidade para resolver _**problemas**_ e desenvolver _**soluções**_.
