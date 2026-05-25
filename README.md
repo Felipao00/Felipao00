@@ -6,9 +6,7 @@
 🎓 Desenvolvimento de Sistemas  
 🚀 Focado em interfaces modernas, automações e desenvolvimento de sistemas
 
----
-
-## O que estou fazendo atualmente
+## 🚀 O que estou fazendo atualmente
 
 🔹 Desenvolvendo aplicações web modernas  
 🔹 Estudando novas tecnologias Front-End e Back-End  
