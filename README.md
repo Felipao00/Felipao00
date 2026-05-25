@@ -13,6 +13,12 @@
 🔹 Criando bots e automações  
 🔹 Evoluindo minhas habilidades Full-Stack
 
+## 🔥 Projetos em Destaque
+
+📌 Atton — Landing Page moderna  
+📌 App Barbearia — Sistema de agendamento  
+📌 FinDashPro — Dashboard financeira
+
 ## 👨‍💻 Linguagens e Tecnologias
 
 Essas são as linguagens e tecnologias que tenho afinidade para resolver _**problemas**_ e desenvolver _**soluções**_.
