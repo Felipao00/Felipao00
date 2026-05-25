@@ -104,4 +104,6 @@ Essas são as linguagens e tecnologias que tenho afinidade para resolver _**prob
 <br/>
 <br/>
 
+## 🧩 Dias Programando
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Felipao00&theme=tokyonight)
