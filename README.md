@@ -8,12 +8,12 @@ Atualmente trabalho com desenvolvimento web, automações e construção de expe
 
 ## ⚡ Sobre Mim
 
-- 📍 Ceará, Brasil
-- 🎓 Desenvolvimento de Sistemas
-- 💻 Full-Stack Developer
-- 🎨 Apaixonado por UI/UX
-- 🤖 Criação de Bots e Automações
-- 🚀 Sempre aprendendo novas tecnologias
+📍 Ceará, Brasil <br>
+🎓 Desenvolvimento de Sistemas <br>
+💻 Full-Stack Developer <br>
+🎨 Apaixonado por UI/UX <br>
+🤖 Criação de Bots e Automações <br>
+🚀 Sempre aprendendo novas tecnologias <br>
 
 ## 🚀 Atualmente
 
