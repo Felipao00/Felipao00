@@ -56,6 +56,7 @@ Essas são as linguagens e tecnologias que tenho afinidade para resolver _**prob
 
 
 #### Frontend & Linguagens
+
 <img 
     align="left" 
     alt="HTML"
