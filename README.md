@@ -6,7 +6,7 @@ Desenvolvedor focado em criar aplicações modernas, interfaces intuitivas e sis
 
 Atualmente trabalho com desenvolvimento web, automações e construção de experiências digitais utilizando tecnologias modernas do ecossistema JavaScript.
 
-## ⚡ Sobre Mim
+## Sobre Mim
 
 📍 Ceará, Brasil <br>
 🎓 Desenvolvimento de Sistemas <br>
@@ -23,7 +23,7 @@ Atualmente trabalho com desenvolvimento web, automações e construção de expe
 🔹 Construindo bots e automações <br>
 🔹 Estudando arquitetura e boas práticas de software <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Front-End
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" /> </p>
@@ -34,7 +34,7 @@ Banco de Dados
 Ferramentas
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </p>
 
-## 🔥 Projetos em Destaque
+## Projetos em Destaque
 
 🎯 Atton ➤ Landing Page moderna focada em conversão e design profissional.
 
@@ -42,20 +42,20 @@ Ferramentas
 
 📊 FinDashPro ➤ Dashboard financeira com métricas e visualização de dados.
 
-## 📈 Estatísticas
+## Estatísticas
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipao00&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipao00&layout=compact&theme=tokyonight"/> </div>
 
-## 🔥 Sequência de Contribuições
+## Sequência de Contribuições
 
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Felipao00&theme=tokyonight"/> </div>
 
-## 👨‍💻 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 Essas são as linguagens e tecnologias que tenho afinidade para resolver _**problemas**_ e desenvolver _**soluções**_.
 
 
-#### 💻 Frontend & Linguagens
+#### Frontend & Linguagens
 <img 
     align="left" 
     alt="HTML"
@@ -91,7 +91,7 @@ Essas são as linguagens e tecnologias que tenho afinidade para resolver _**prob
 
 <br/><br/>
 
-#### 📊 Banco de Dados
+#### Banco de Dados
 
 <img 
     align="left" 
@@ -128,7 +128,7 @@ Essas são as linguagens e tecnologias que tenho afinidade para resolver _**prob
 
 <br/><br/>
 
-#### 🔧 Ferramentas
+#### Ferramentas
 <img 
     align="left" 
     alt="Git" 
