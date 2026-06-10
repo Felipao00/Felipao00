@@ -130,6 +130,7 @@ Essas são as linguagens e tecnologias que tenho afinidade para resolver _**prob
 <br/><br/>
 
 #### Ferramentas
+
 <img 
     align="left" 
     alt="Git" 
