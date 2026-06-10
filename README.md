@@ -17,11 +17,11 @@ Atualmente trabalho com desenvolvimento web, automações e construção de expe
 
 ## 🚀 Atualmente
 
-🔹 Desenvolvendo aplicações web modernas
-🔹 Criando dashboards e sistemas administrativos
-🔹 Aprimorando conhecimentos em React e TypeScript
-🔹 Construindo bots e automações
-🔹 Estudando arquitetura e boas práticas de software
+🔹 Desenvolvendo aplicações web modernas <br>
+🔹 Criando dashboards e sistemas administrativos <br>
+🔹 Aprimorando conhecimentos em React e TypeScript <br>
+🔹 Construindo bots e automações <br>
+🔹 Estudando arquitetura e boas práticas de software <br>
 
 ## 🛠️ Tech Stack
 
