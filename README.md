@@ -17,7 +17,7 @@ Atualmente trabalho com desenvolvimento web, automações e construção de expe
 
 ## 🚀 Atualmente
 
-🔹 Desenvolvendo aplicações web modernas  
+🔹 Desenvolvendo aplicações web modernas
 🔹 Criando dashboards e sistemas administrativos
 🔹 Aprimorando conhecimentos em React e TypeScript
 🔹 Construindo bots e automações
@@ -36,14 +36,11 @@ Ferramentas
 
 ## 🔥 Projetos em Destaque
 
-🎯 Atton
-Landing Page moderna focada em conversão e design profissional.
+🎯 Atton ➤ Landing Page moderna focada em conversão e design profissional.
 
-💈 App Barbearia
-Sistema completo de agendamento para barbearias.
+💈 App Barbearia ➤ Sistema completo de agendamento para barbearias.
 
-📊 FinDashPro
-Dashboard financeira com métricas e visualização de dados.
+📊 FinDashPro ➤ Dashboard financeira com métricas e visualização de dados.
 
 ## 📈 Estatísticas
 
@@ -143,7 +140,3 @@ Essas são as linguagens e tecnologias que tenho afinidade para resolver _**prob
 
 <br/>
 <br/>
-
-## 🧩 Dias Programando
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Felipao00&theme=tokyonight)
