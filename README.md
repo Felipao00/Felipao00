@@ -15,7 +15,7 @@ Atualmente trabalho com desenvolvimento web, automações e construção de expe
 🤖 Criação de Bots e Automações <br>
 🚀 Sempre aprendendo novas tecnologias <br>
 
-## 🚀 Atualmente
+## Atualmente
 
 🔹 Desenvolvendo aplicações web modernas <br>
 🔹 Criando dashboards e sistemas administrativos <br>
