@@ -34,18 +34,6 @@ Banco de Dados
 Ferramentas
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </p>
 
-## Projetos em Destaque
-
-🎯 Atton ➤ Landing Page moderna focada em conversão e design profissional.
-
-💈 App Barbearia ➤ Sistema completo de agendamento para barbearias.
-
-📊 FinDashPro ➤ Dashboard financeira com métricas e visualização de dados.
-
-## Estatísticas
-
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipao00&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipao00&layout=compact&theme=tokyonight"/> </div>
-
 ## Sequência de Contribuições
 
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Felipao00&theme=tokyonight"/> </div>
